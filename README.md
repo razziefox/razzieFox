@@ -5,6 +5,6 @@
 - 🖥️ Most projects are a mixture of both tools and games
 
 Recent Projects
-- [Travel](https://github.com/razzie-dev/travel)
+- [Pixel Framework](https://github.com/razzie-dev/pixel-framework)
 - [GDL](https://florencio-o.github.io/gdl/)
 - [RLD](https://github.com/florencio-o/RLD)
