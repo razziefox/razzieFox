@@ -5,6 +5,6 @@
 - 🖥️ Most projects are a mixture of both tools and games
 
 Recent Projects
+- [waterway](https://github.com/razzie-dev/waterway)
+- [dashton](https://github.com/razzie-dev/dashton)
 - [Pixel Framework](https://github.com/razzie-dev/pixel-framework)
-- [GDL](https://florencio-o.github.io/gdl/)
-- [RLD](https://github.com/florencio-o/RLD)
