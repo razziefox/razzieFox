@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Florencio
 - 🦜 I'm a self-tought programmer who loves birds and technology
-- 🔧 I have worked in many languages including C++, C, C#, Lua, Go, Python, GML, and GDScript
+- 🔧 I have worked in many languages including C++, C, C#, and Python
 - 💾 Nearly every project I've done is open source
 - 🖥️ Most projects are a mixture of both tools and games
 
